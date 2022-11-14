@@ -1,5 +1,4 @@
 # VirtualEye - LifeGuard for Swimming Pools to Detect Active Drowning
-<a href="https://imgur.com/ga6253P"><img src="https://i.imgur.com/ga6253P.png" title="source: imgur.com" /></a>
 <br><br>
 <b>Team ID: PNT2022TMID00795</b>
 ## Abstract
