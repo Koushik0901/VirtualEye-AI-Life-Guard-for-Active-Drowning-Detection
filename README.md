@@ -1,5 +1,7 @@
 # VirtualEye - LifeGuard for Swimming Pools to Detect Active Drowning
-<br><br>
-<b>Team ID: PNT2022TMID00795</b>
-## Abstract
-Safety is the top priority in all swimming areas. The current systems expected to address the problem of ensuring pool safety have significant problems due to technical aspects such as underwater cameras and methodological aspects such as the need for human intervention in rescue missions. The use of an automated visual-based monitoring system can effectively help to reduce drownings and ensure pool safety. Due to their technical characteristics, such as underwater cameras, and methodological aspects, like the requirement for human engagement in the rescue mission, the present solutions supposed to handle the issue of maintaining safety at swimming pools have serious issues. The effective reduction of drownings and assurance of pool safety can be achieved through the implementation of an automated visual-based monitoring system. The proposed monitoring system detects a drowning person and triggers an alarm in the lifeguard’s monitoring device. This helps the lifeguard to take necessary actions promptly.
+***An AI based active drowning detection system that utilized YOLOv5 to detect swimmers and track their movements to check for drowning swimmers. If a drowning person is detected, the system triggers an alarm and notifies the life guard. The proposed system can detect drowning persons with an accuracy of 97%.***
+
+Team ID: PNT2022TMID00795
+
+## **Architecture**
+<img src="https://user-images.githubusercontent.com/68442252/206828544-40a1c682-99e8-43a9-9542-770a0a0e0958.png" width="700" height="500"/>
